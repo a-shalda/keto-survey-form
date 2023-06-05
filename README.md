@@ -1,2 +1,1 @@
-# keto-survey-form
- 
+Fully responsive simple survey form.
